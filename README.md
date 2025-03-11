@@ -1,10 +1,10 @@
 <h2>Kerolain Souza</h2>
 
-<h6>
+<h5>
   🚀 Software engineering degree student
 <br>
   📩 Contact: kerolainfsouzaa@gmail.com
-</h6>
+</h5>
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ##
 <div>
-<h6>Languages:</h6>
+<h5>Languages:</h5>
   <img height="40em" src="https://img.icons8.com/?size=100&id=zHmH8HpOmM90&format=png&color=000000"/>
   <img height="40em" src="https://img.icons8.com/?size=100&id=PW8KZnP7qXzO&format=png&color=000000">
   <img height="40em" src="https://img.icons8.com/?size=100&id=aRiu1GGi6Aoe&format=png&color=000000"/>
@@ -26,7 +26,7 @@
 
   <div>
     <img height="40em" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-    <img height="40em" src="https://img.icons8.com/?size=100&id=1045&format=png&color=000000"/>
+    <img height="40em" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
     <img height="42em" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
     <img height="40em" src="https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000"/>
     <img height="42em" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000"/>
